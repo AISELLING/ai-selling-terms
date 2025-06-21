@@ -1,2 +1,20 @@
-# ai-selling-terms
-Terms of Service page for AI SELLING – a TikTok Shop profit analytics tool.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="AI SELLING Terms of Service - TikTok seller analytics tool."/>
+  <meta name="robots" content="index, follow"/>
+  <meta property="og:title" content="AI SELLING Terms of Service" />
+  <meta property="og:description" content="Read the Terms of Service for AI SELLING, a TikTok Shop profit dashboard tool." />
+  <meta property="og:url" content="https://aiselling.github.io/ai-selling-terms/" />
+  <title>AI SELLING Terms of Service</title>
+</head>
+<body>
+  <h1>Terms of Service – AI SELLING</h1>
+  <p>AI SELLING is a web-based tool designed to help TikTok Shop sellers monitor profits, track sales, and manage product performance. By using AI SELLING, you agree to use the platform at your own risk. This service is provided "as is" and may change at any time.</p>
+  <p>We do not take responsibility for errors in data accuracy, lost profits, or third-party integrations. All users are responsible for complying with TikTok Shop policies.</p>
+  <p>Contact: support@aiselling.app</p>
+  <p>Last updated: 21 June 2025</p>
+</body>
+</html>
